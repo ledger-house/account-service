@@ -1,0 +1,1 @@
+-- Establish Flyway ownership of the account schema.
